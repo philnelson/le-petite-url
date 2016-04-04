@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: philnelson
 Version: 2.1.4
-Plugin URI: http://lapetite.me
+Plugin URI: http://extrafuture.com
 Tags: url shortener, url shortening, shorturl, short_url, shortlink, short permalink, short url
 Requires at least: 2.5
 Tested up to: 3.3.1
